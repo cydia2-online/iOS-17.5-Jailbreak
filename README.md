@@ -156,7 +156,8 @@ Checkra1n Mirror is a reliable and simple jailbreak tool for iOS 17.5 & Higher v
 
 Easy Installation: 
 
-- Unlike the original Checkra1n, you don't need to put your device into DFU mode. 
+- Unlike the original Checkra1n, you don't need to put your device into DFU mode.
+- No need [TrollStore](https://cydia2.com/trollstore/) or Sideloadly methods. 
 
 Simply generate a Checkra1n Mirror code using the CodeGen app to proceed.
 
