@@ -84,7 +84,7 @@ Hacksn0w offers a semi-jailbreak experience for iOS 17.5/17.5.1 devices. While n
 
 [Install Tijong Xūnǐ 🔽](https://tijong.com/download/)
 
-TiJong Xūnǐ is a Chinese virtual jailbreak solution for the latest iOS versions, including iOS 17.5 and 17.5.1. It also supports all iOS versions from 17 to 17.4.1.
+TiJong Xūnǐ is a Chinese virtual jailbreak solution for the latest iOS versions, including iOS 17.5 and 17.5.1. It also stands out as a best [iOS 17.4.1 jailbreak](https://cydia2.com/cydia-17-4/) solution too.
 
 #### Key Features
 
