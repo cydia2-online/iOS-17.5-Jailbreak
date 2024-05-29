@@ -56,6 +56,8 @@ Repo URL 👇
 
 [Explore More Cydia 2 Repos 🔽](https://cydia2.com/best-cydia-repos/)
 
+[How To Add Repos - Guide 📄](https://www.youtube.com/watch?v=oRjkuskyfSk)
+
 ## Most recent iOS 17 - iOS 17.5 Jailbreak Methods for installing Cydia
 
 ### 1 - Hacksn0w Semi-Jailbreak ( Online ✅ )
