@@ -126,7 +126,7 @@ Cydia and Sileo Lite Versions:
 
 Themes and Installers:
 
-- It includes amazing themes, jailbreak app installers, app stores, and games. The Zeon team regularly updates the repositories.
+- It includes amazing [themes](https://cydia2.com/ios17-themes/), jailbreak app installers, [tweaked app stores](https://cydia2.com/tweaked-app-stores/), and games. The Zeon team regularly updates the repositories.
 
 Repository Count: 
 
@@ -211,7 +211,9 @@ To unlock these themes and explore a wider collection, consider adding the follo
 - Apple Hub Repository
 - Ela Theme Repository
 
-Please note: You'll need Cydia 2 installed to access these repositories and their themes.
+Please note: You'll need [Cydia 2 installed](https://cydia2.com/#cydia2-btn) to access these repositories and their themes.
+
+Otherwise you can get themes directly after refering our [Cydia 2 themes page](https://cydia2.com/ios17-themes/).
 
 ## Must-Have Cydia 2 Tweaks for iOS 17 - iOS 17.5.1
 
