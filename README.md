@@ -138,8 +138,6 @@ It was initially released for iOS 14 and has been updated for each subsequent ve
 
 - Download Sources: Zeon can be downloaded from multiple websites.
 
-It is recommended to download from the Pangu8 store or the official Zeon website to avoid malicious content.
-
 - Security: Zeon is a 100% secure solution, free from viruses and harmful content.
 
 Unwanted advertisements and pop-ups are blocked.
