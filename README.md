@@ -24,7 +24,7 @@ The Cydia 2 Repositories and sources offer a wide variety of iOS enhancements. T
 
 ## Cydia 2 Repository List
 
-## Ela theme repository
+## Ela Theme Repository
 
 Ela themes repository consists with a collection of visually appealing iOS themes
 
@@ -34,9 +34,9 @@ Repo URL 👇
 
 `https://getrepo.ela-themes.com/`
 
-## Sileo repository
+## Sileo Repository
 
-Sileo third-party package manager ( Online version )
+Get Sileo third-party package manager ( Online version ). Added new features!
 
 ![Sileo repo](https://github.com/cydia2-online/iOS-17.5-Higher-Jailbreak/assets/162080084/ef4cb20c-1803-408e-b1ca-214f74516623)
 
@@ -46,7 +46,7 @@ Repo URL 👇
 
 ## Depth repository
 
-Beautiful collection of iPhone home screen wallpapers
+Beautiful collection of iPhone home screen wallpapers.
 
 ![Depth Repo](https://github.com/cydia2-online/iOS-17.5-Higher-Jailbreak/assets/162080084/e1fb597d-36b9-4511-804d-a4cadc6f6f2d)
 
