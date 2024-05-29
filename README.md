@@ -134,7 +134,7 @@ Repository Count:
 
 - Popularity and Ease of Use: Zeon is the most downloaded repo extractor, known for its user-friendly interface and reliability.
 
-It was initially released for iOS 14 and has been updated for each subsequent version. The installation process is straightforward, and removal is equally simple.
+It was initially released for [iOS 17.3 jailbreaking](https://cydia2.com/cydia-ios17-3/) and has been updated for each subsequent version. The installation process is straightforward, and removal is equally simple.
 
 - Download Sources: Zeon can be downloaded from multiple websites.
 
