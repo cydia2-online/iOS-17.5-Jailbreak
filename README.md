@@ -12,7 +12,7 @@ Cydia, originally developed by Jay Freeman (Saurik), is no longer actively maint
 
 ## Exciting Update! Cydia 2 Repositories Now Support iOS 17 - 17.5.1
 
-The Cydia 2 Repositories and sources offer a wide variety of iOS enhancements. The best part is you can enjoy all the repos without computer or iOS 17.5 full jailbreaking!
+The Cydia 2 Repositories and sources offer a wide variety of iOS enhancements. The best part is you can enjoy all the repos without Mac or windows computer access.
 
 🚀 Tweaks: Enhance your device's functionality and appearance.
 
