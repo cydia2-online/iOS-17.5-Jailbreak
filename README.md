@@ -66,7 +66,7 @@ Repo URL 👇
 
 [Install Hacksnow 🔽](https://cydia2.com/hacksnow-jailbreak/)
 
-Hacksn0w offers a semi-jailbreak experience for iOS 17.5/17.5.1 devices. While not a full jailbreak, it allows installation of Cydia alternatives like Cydia 2, Sileo, Zebra and Cydia Dark for package management.
+Hacksn0w offers a semi-jailbreak experience for iOS 17.5/17.5.1 devices. While not a full jailbreak, it allows installation of [Cydia alternatives](https://cydia2.com/cydia-alternatives/) like Cydia 2, Sileo, Zebra and Cydia Dark for package management.
 
 #### Key Features
 
