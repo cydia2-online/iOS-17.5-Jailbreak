@@ -116,7 +116,7 @@ Multi-Language Support:
 
 [Install Zeon 🔽](https://zeon-app.com/install/app/)
 
-Zeon is a reliable online jailbreak solution that allows you to install jailbreak apps and tweaks. It supports iOS 17.5 and iOS 17.5.1, using the same repo extraction method. Initially released as an iOS 17.5 jailbreak solution, Zeon has been continually upgraded to include more features and now works on all iOS 14.X, iOS 15.X, and iOS 16.X versions.
+Zeon is a reliable online jailbreak solution that allows you to install jailbreak apps and tweaks. It supports iOS 17.5 and iOS 17.5.1, using the same repo extraction method. Initially released as an iOS 17 jailbreak solution, Zeon has been continually upgraded to include more features and now works on all iOS 17.1, iOS 17.2 - iOS 17.4.1 versions also.
 
 More Information about Zeon Repo Extractor
 
