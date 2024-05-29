@@ -229,7 +229,7 @@ This list highlights some exciting tweaks to personalize your iPhone or iPad wit
 
 - OverlayXR: Unleash your creativity! OverlayXR lets you personalize your Dock with any wallpaper you choose, all within Cydia 2.
 
-OS Repository / iOS Launches Repository / Emulator Repository / Tools Repository and Apple Hub Repository designed with Cydia 2 tweaks. You can grab these repos from the Cydia 2 official repos [Cydia 2 official repos](https://cydia2.com/best-cydia-repos/) page.
+OS Repository / iOS Launches Repository / Emulator Repository / Tools Repository and Apple Hub Repository designed with Cydia 2 tweaks. Grab these repos and sources from the Cydia 2 official repos [Cydia 2 official repos](https://cydia2.com/best-cydia-repos/) page.
 
 ## What is rootless Jailbreak
 
